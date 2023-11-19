@@ -9,7 +9,7 @@
 <br/>
 
 # 💻 Career
-- Sentbe (2023.04-)        : B2B Global Payments Platform Backend Developer
+- SentBe (2023.04-)        : B2B Global Payments Platform Backend Developer
 - TmaxAI (2021.01-2023.04) : Chatbot Platform Backend Developer
 <br/>
 
