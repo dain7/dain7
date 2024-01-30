@@ -6,6 +6,7 @@
 주로 사용하는 기술은 Kotlin, Java, Springboot, JPA 입니다. <br/>
 현재, 스크럼 팀에 소속되어 기획자, 디자이너, 프론트엔드 개발자 등 다양한 직군과 소통중입니다. <br/>
 Agile 방법론을 지향하며, 최근 도메인 주도 개발에 관심을 가지고 공부하고 있습니다! <br/>
+
 LinkedIn: https://www.linkedin.com/in/dain-kim-a00a15262/
 <br/>
 
