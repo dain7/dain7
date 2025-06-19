@@ -28,8 +28,6 @@ LinkedIn: <a href="https://www.linkedin.com/in/dain-kim-a00a15262/">https://www.
 - TmaxAI (2021.01-2023.04) : Chatbot Platform Backend Developer  
 <br/>
 
-<div align="center">
-
 # 📚 Skill Set  
 
 ### Language  
@@ -39,4 +37,3 @@ LinkedIn: <a href="https://www.linkedin.com/in/dain-kim-a00a15262/">https://www.
 ### Framework  
 <img alt="springboot" src="https://img.shields.io/badge/Springboot-6DB33F.svg?&style=for-the-badge&logo=Springboot&logoColor=white"/>
 
-</div>
