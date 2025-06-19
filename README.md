@@ -21,10 +21,14 @@ I follow Agile methodologies, and I'm currently deepening my understanding of Do
 LinkedIn: <a href="https://www.linkedin.com/in/dain-kim-a00a15262/">https://www.linkedin.com/in/dain-kim-a00a15262/</a>
 <br/>
 
+</div>
+
 # 💻 Career  
 - SentBe (2023.04-)        : B2B Global Payments Platform Backend Developer  
 - TmaxAI (2021.01-2023.04) : Chatbot Platform Backend Developer  
 <br/>
+
+<div align="center">
 
 # 📚 Skill Set  
 
