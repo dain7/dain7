@@ -10,6 +10,8 @@
 />
 </a>
 
+<br/>
+
 As a backend developer with 5 years of experience, I am currently working at SentBe, developing a B2B cross-border remittance platform. </br>
 I mainly use Kotlin, Java, Spring Boot, and JPA in my daily work. </br>
 I'm part of a scrum team, collaborating closely with product managers, designers, and frontend developers. </br>
