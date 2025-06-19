@@ -23,8 +23,10 @@ LinkedIn: https://www.linkedin.com/in/dain-kim-a00a15262/
 ### Framework
 <img alt="이미지명" src ="https://img.shields.io/badge/Springboot-6DB33F.svg?&style=for-the-badge&logo=Springboot&logoColor=white"/>
 
-
-<br/>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dain7&show_icons=true&theme=radical)
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dain7&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/dain7"
+    width="600"
+    height="120"
+  />
+</a>
