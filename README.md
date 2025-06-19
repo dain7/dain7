@@ -2,12 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&pause=1000&color=F7F7F7&width=435&lines=Hello+!+I'm+Dain+Kim+!)](https://git.io/typing-svg)
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dain7&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/dain7"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dain7&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/dain7"
+  width="600"
+  height="300"
+/>
 </a>
 
 As a backend developer with 5 years of experience, I am currently working at SentBe, developing a B2B cross-border remittance platform. </br>
